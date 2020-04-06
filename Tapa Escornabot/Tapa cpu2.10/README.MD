@@ -12,4 +12,4 @@ Y otro modelo, además de los agujeros para buzzer, tiene un agujero por si el i
 la parte de arriba de la placa.
 
 
-[img1]: [./imagenes/tapas.png]
+[img1]: ./imagenes/tapas.png
