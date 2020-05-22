@@ -15,5 +15,5 @@ Potenciometro:
 https://grabcad.com/library/control-potentiometers-1
 
 ![Potenciometro](./imagenes/potenciometros.png)
-)
+
 
