@@ -7,3 +7,10 @@ Portapilas 4 Pilas AA.
 
 
 Fuente: https://grabcad.com/library/battery-pack-2
+
+
+Potenciometro
+
+https://grabcad.com/library/control-potentiometers-1
+
+[img1]: ./imagenes/potenciometros.png
